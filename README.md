@@ -1,5 +1,7 @@
 # Travel-Diary
 
+Rayout/Activity
+-------------------------------------------------------------------------------------
 Intro Interface
 * 캘린더
 * 지도
@@ -15,12 +17,14 @@ Map Interface
 * 파란핀의 휴지통 아이콘을 눌렀을 시 핀 삭제(빨간핀의 경우 Diary정보와 함께 삭제)
 * 하루가 지나면 저장된 핀과 다이어리 정보가 캘린더에 저장되고 Map Interface는 초기화 된다.
 
-SaveDiary Interface
-* 사진 등록 눌렀을 시 갤러리와 연동하여 사진 등록
-* 메모 저장
-* 저장/취소 버튼
-    - 저장 버튼 눌렀을 시 저장되었습니다 token발생 후 업데이트된 지도화면 띄우기
-    - 취소 버튼 눌렀을 시 Map Interface로 되돌아가기
+AddDiary Interface
+* EDIT 버튼 눌렀을 시 갤러리/카메라와 연동하여 사진 등록
+* 메모
+* 장소명
+* 날짜/시간
+* SAVE/BACK 버튼
+    - SAVE 버튼 눌렀을 시 저장되었습니다 token발생 후 업데이트된 지도화면 띄우기
+    - BACK 버튼 눌렀을 시 Map Interface로 되돌아가기
 
 Calendar Interface
 * 날짜 선택하면 그 날 저장된 핀 데이터가 반영된 지도 표시
@@ -29,3 +33,13 @@ Calendar Interface
 Diary Interface
 * 저장된 모든 다이어리가 피드 형식으로 띄워짐
 * 각 피드는 날짜와 시간이 표기되어있음
+
+DATABASE
+---------------------------------------------------------------------------------------
+DIARY
+{date TEXT
+ time TEXT
+ img_path TEXT
+ place TEXT
+ memo TEXT
+ PRIMARY KEY(date,time)}
