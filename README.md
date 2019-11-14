@@ -39,7 +39,10 @@ DATABASE
 DIARY
 {date TEXT
  time TEXT
+ LAT TEXT
+ LNG TEXT
  img_path TEXT
  place TEXT
  memo TEXT
  PRIMARY KEY(date,time)}
+ 
