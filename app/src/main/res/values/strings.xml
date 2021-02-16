@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TRAVEL DIARY</string>
+
+    //button
+    <string name="diary_btn">MY DIARY</string>
+    <string name="map_btn">MAP</string>
+    <string name="calendar_btn">CALENDAR</string>
+
+</resources>
