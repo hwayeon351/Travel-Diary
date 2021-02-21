@@ -13,9 +13,6 @@
 <img src="./Images/travel_diary5.png" width="200px" height="400px" title="img" alt="img"></img></br>
 
 ## 주 기능
-* 지도
-* 일기
-* 캘린더
 
 ### 지도
 * 1시간 간격으로 트래킹 한 위치를 노란색 마커로 표시
