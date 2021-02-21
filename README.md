@@ -3,11 +3,19 @@
 
 ## 개발 동기
 
+
+## 결과
+<img src="./Images/travel_diary0" width="200px" height="400px" title="img" alt="img"></img>
+<img src="./Images/travel_diary1" width="200px" height="400px" title="img" alt="img"></img>
+<img src="./Images/travel_diary2" width="200px" height="400px" title="img" alt="img"></img>
+<img src="./Images/travel_diary3" width="200px" height="400px" title="img" alt="img"></img>
+<img src="./Images/travel_diary4" width="200px" height="400px" title="img" alt="img"></img>
+<img src="./Images/travel_diary5" width="200px" height="400px" title="img" alt="img"></img></br>
+
 ## 주 기능
 * 지도
 * 일기
 * 캘린더
-
 
 ### 지도
 * 1시간 간격으로 트래킹 한 위치를 노란색 마커로 표시
