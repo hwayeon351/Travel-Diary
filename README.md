@@ -1,7 +1,6 @@
 # 여행 다이어리 애플리케이션
- 1시간 주기로 사용자의 위치를 기록하고, 해당 위치에 다이어리를 작성하는 여행자를 위한 애플리케이션
+ 1시간 주기로 사용자의 위치를 기록하고, 해당 위치에 다이어리를 작성하는 여행자를 위한 애플리케이션</br>
 
-## 결과
 <img src="./Images/travel_diary0.png" width="200px" height="400px" title="img" alt="img"></img>
 <img src="./Images/travel_diary1.png" width="200px" height="400px" title="img" alt="img"></img>
 <img src="./Images/travel_diary2.png" width="200px" height="400px" title="img" alt="img"></img></br>
