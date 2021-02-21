@@ -38,10 +38,10 @@ public class IntroActivity extends AppCompatActivity{
                 ActivityCompat.requestPermissions(this, new String[]{GPSPermission, Manifest.permission.CAMERA, Manifest.permission.WRITE_EXTERNAL_STORAGE}, REQUEST_CODE_PERMISSION);
 
                 dbHelper.insert_gpstest(1, "2019-12-5   오전 11:05:13", "37.5670859", "126.9932446", "blue");
-                dbHelper.insert_diarytest(1, "2019-12-5   오전 11:05:13", "/storage/emulated/0/DCIM/Camera/KakaoTalk_20191215_221743014.png","챔프 커피", "챔프커피 라떼가 제일 맛있엉 !");
+                dbHelper.insert_diarytest(1, "2019-12-5   오전 11:05:13", "/sdcard/Pictures/KakaoTalk_20191215_221743014.png","챔프 커피", "챔프커피 라떼가 제일 맛있엉 !");
 
                 dbHelper.insert_gpstest(2, "2019-12-5   오후 12:07:13", "37.5581719", "127.0045289", "blue");
-                dbHelper.insert_diarytest(2, "2019-12-5   오후 12:07:13", "/storage/emulated/0/DCIM/Camera/2.png","텐진 호르몬", "텐진호르몬 19000원 텐진정식!");
+                dbHelper.insert_diarytest(2, "2019-12-5   오후 12:07:13", "/sdcard/Pictures/IMG_8027.JPG","산타 돈부리", "동국대학교의 맛집!!");
 
                 //dbHelper.insert_gpstest(3, "2019-12-5   오후 13:10:20", "37.5462527", "126.9690266", "blue");
                 //dbHelper.insert_diarytest(3, "2019-12-5   오후 13:10:20", "/storage/emulated/0/DCIM/Camera/3.png","장충 체육관", "GS칼텍스 vs 흥국생명 경기 gs칼텍스 승!");
