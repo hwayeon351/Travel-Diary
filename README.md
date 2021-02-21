@@ -7,7 +7,7 @@
 ## 결과
 <img src="./Images/travel_diary0.png" width="200px" height="400px" title="img" alt="img"></img>
 <img src="./Images/travel_diary1.png" width="200px" height="400px" title="img" alt="img"></img>
-<img src="./Images/travel_diary2.png" width="200px" height="400px" title="img" alt="img"></img>
+<img src="./Images/travel_diary2.png" width="200px" height="400px" title="img" alt="img"></img></br>
 <img src="./Images/travel_diary3.png" width="200px" height="400px" title="img" alt="img"></img>
 <img src="./Images/travel_diary4.png" width="200px" height="400px" title="img" alt="img"></img>
 <img src="./Images/travel_diary5.png" width="200px" height="400px" title="img" alt="img"></img></br>
